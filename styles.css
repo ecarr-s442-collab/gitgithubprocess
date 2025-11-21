@@ -1,9 +1,14 @@
 body {
-  background-color: coral;
+  background-color: darkorange;
 }
 h1 {
   background-color: white;
 }
 h2 {
   background-color: lightblue;
+}
+ul {
+  padding: 1rem;
+  background-color: lightyellow;
+  border: 2px solid black;
 }
